@@ -25,6 +25,10 @@ Tested and ready for deployment or demonstration.
 
 ## By -
 **Jonnalagadda Eswari Naga Sai**
+
+## mail -
  jeswarinagasai@gmail.com
+
+## GitHubLink -
  https://github.com/EswariNagaSaiJonnalagadda/GrainPalette-A-Deep-Learning-Odyssey-in-Rice-Type-Classification/tree/main
 
